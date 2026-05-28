@@ -116,4 +116,4 @@ Mobile App
 OCR Citizen ID Verification
 
 
-Jira board: https://ht20041975.atlassian.net/jira/software/projects/KAN/boards/2?atlOrigin=eyJpIjoiNjhiZTgxNDNkOGFiNDg0NmFmNDQ3NGZjM2RkZWIzMTMiLCJwIjoiaiJ9
+Jira board: https://ht20041975.atlassian.net/jira/software/projects/MMRM/list?jql=project%20%3D%20MMRM%20ORDER%20BY%20cf%5B10019%5D%20ASC
