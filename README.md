@@ -117,6 +117,11 @@ OCR Citizen ID Verification
 
 
 Jira board: https://ht20041975.atlassian.net/jira/software/projects/MMRM/list?jql=project%20%3D%20MMRM%20ORDER%20BY%20cf%5B10019%5D%20ASC
+
 Link Github: https://github.com/Hoang-124/Motov
 
 Link Overleaf:https://www.overleaf.com/2576461851nmfxwfsxfkks#74b469
+
+Live Demo & Cloud Links
+- **Frontend Client (Vercel):** https://motov-client.vercel.app
+- **Backend Server API (Render):** https://motov.onrender.com
